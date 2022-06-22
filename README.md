@@ -1,6 +1,8 @@
 <p allign="center">
     Aplicação node com redis
 </p>
+<p align="center"> Projeto desenvolvido com ajuda da Rocketseat </p>
+<hr>
 
 
 ## Tecnologias 🚀 
