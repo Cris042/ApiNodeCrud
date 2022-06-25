@@ -1,4 +1,4 @@
-<h1 allign="center">
+<h1 align="center">
     Aplicação node com redis
 </h1>
 <p align="center"> Projeto desenvolvido com ajuda da Rocketseat </p>
