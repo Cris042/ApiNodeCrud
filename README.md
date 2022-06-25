@@ -1,6 +1,6 @@
-<p allign="center">
+<h1 allign="center">
     Aplicação node com redis
-</p>
+</h1>
 <p align="center"> Projeto desenvolvido com ajuda da Rocketseat </p>
 <hr>
 
